@@ -2,6 +2,10 @@
 
 Application macOS native pour agrandir un PDF ou une image sur plusieurs feuilles A4 ou A3, puis assembler un poster. Les documents sont traités localement, sans compte ni connexion.
 
+## Télécharger pour Mac
+
+[Télécharger PosterMaker 1.1.0 pour macOS (DMG)](https://github.com/CoursCircuit/PosterMaker/releases/download/v1.1.0/PosterMaker-1.1.0-universal.dmg). Ouvrez le DMG puis glissez PosterMaker dans Applications. L’application nécessite macOS 13 ou ultérieur. La version Intel et macOS 13 n’ont pas été vérifiés. L’application est signée localement et non notariée par Apple : macOS peut bloquer son ouverture.
+
 ## Fonctionnalités
 
 - Aperçu du poster et de son découpage en feuilles numérotées.
